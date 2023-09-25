@@ -2,7 +2,7 @@
 
 Python Script for Email Bombing which supports Gmail, Yahoo, Hotmail/Outlook
 
-<a href="https://asciinema.org/a/LPEmn3kibOGFnt9229vaeuoWG" target="_blank"><img src="https://asciinema.org/a/LPEmn3kibOGFnt9229vaeuoWG.png" /></a>
+Forked and updated to be used with Python3.
 
 Made with ![heart](https://cloud.githubusercontent.com/assets/4301109/16754758/82e3a63c-4813-11e6-9430-6015d98aeaab.png) by <a href=https://twitter.com/MazenElzanaty>Mazen Elzanaty</a>
 
